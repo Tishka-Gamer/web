@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "front": "apple",
+        "back": "яблоко",
+        "setName": "fruts"
+    },
+    {
+        "id": 2,
+        "front": "red",
+        "back": "красный",
+        "setName": "color"
+    },
+    {
+        "id": 3,
+        "front": "banana",
+        "back": "банан",
+        "setName": "fruts"
+    },
+    {
+        "id": 4,
+        "front": "yellow",
+        "back": "желтый",
+        "setName": "color"
+    },
+    {
+        "id": 5,
+        "front": "cucumber",
+        "back": "огурец",
+        "setName": "fruts"
+    },
+    {
+        "id": 6,
+        "front": "green",
+        "back": "зеленый",
+        "setName": "color"
+    },
+    {
+        "id": 7,
+        "front": "rassberry",
+        "back": "малина",
+        "setName": "fruts"
+    },
+    {
+        "id": 8,
+        "front": "mangenta",
+        "back": "малиновый",
+        "setName": "color"
+    },
+    {
+        "id": 9,
+        "front": "orange",
+        "back": "апельсин",
+        "setName": "fruts"
+    },
+    {
+        "id": 10,
+        "front": "orange",
+        "back": "оранжевый",
+        "setName": "color"
+    }
+]
